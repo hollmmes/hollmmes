@@ -15,9 +15,6 @@ Although I possess the formidable power and unfathomable knowledge to lay worlds
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hollmmes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=hollmmes&icon=0&color=1)](https://visitcount.itsvg.in)
 
