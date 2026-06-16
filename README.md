@@ -57,5 +57,5 @@ Geleneklere meydan okumaktan keyif alıyorum. Ya da en azından deniyorum.
 </p>
 
 <p align="center">
-  <img src="https://komarev.github.io/ghpvc/?username=hollmmes&color=blueviolet&style=flat-square" />
+  <img src="https://visitcount.itsvg.in/api?id=hollmmes&label=Profil%20Goruntulenme&color=6&icon=0&pretty=false" />
 </p>
