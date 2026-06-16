@@ -55,7 +55,3 @@ Geleneklere meydan okumaktan keyif alıyorum. Ya da en azından deniyorum.
   Eğer buraya kadar okuduysanız, ya çok meraklısınızdır ya da çok sıkılıyorsunuzdur.<br/>
   Her iki durumda da hoş geldiniz.
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hollmmes&label=Profil%20Goruntulenme&color=6&icon=0&pretty=false" />
-</p>
